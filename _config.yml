@@ -12,7 +12,9 @@ github_username:  katemont
 
 # Build settings
 markdown: kramdown
+permalink: pretty
 
 exclude: ['README.md']
 
 paginate: 1
+
