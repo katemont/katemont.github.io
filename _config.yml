@@ -1,9 +1,9 @@
 # Site settings
 title: Kate Montgomery
-email: katharine.montgomery@gmail.com
+email: kate@katemont.com
 description: "Junior full stack developer and soon to be graduate of the General Assembly Web Development Immersive course. Come back soon to see my portfolio"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://katemont.com" # the base hostname & protocol for your site
 twitter_username: _katemontgomery
 github_username:  katemont
 
