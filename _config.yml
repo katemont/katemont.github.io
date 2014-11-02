@@ -1,17 +1,39 @@
+url: https://katemont.github.io
+baseurl: /agency-jekyll-theme/
+
 # Site settings
 title: Kate Montgomery
 email: kate@katemont.com
-description: "Junior full stack developer and soon to be graduate of the General Assembly Web Development Immersive course. Come back soon to see my portfolio"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://katemont.com" # the base hostname & protocol for your site
-twitter_username: _katemontgomery
-github_username:  katemont
+description: "Junior full stack developer and soon to be graduate of the General Assembly Web Development Immersive course. Come back soon to see my portfolio."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503  
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Kate Montgomery
+  pic: 1
+  position: Full Stack Web Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: _katemontgomery
+  - title: linkedin
+    url: uk.linkedin.com/in/katemont
+  - title: github
+    url: http://github.com/katemont
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-exclude: ['README.md']
-
-paginate: 1
-
