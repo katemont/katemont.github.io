@@ -346,6 +346,9 @@ section h3.section-subheading {
     }
 }
 
+#about {
+    background-color: rgb(247,247,247);
+}
 .service-heading {
     margin: 15px 0;
     text-transform: none;
@@ -368,7 +371,7 @@ section h3.section-subheading {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(254,209,54,.9);
+    background: rgba(255,195,160,.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -653,14 +656,14 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-color: rgba(255,195,160,.3);
+    /*background-image: url(../img/map-image.png);*/
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #000;
 }
 
 section#contact .form-group {
