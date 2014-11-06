@@ -8,7 +8,7 @@ description: "Junior full stack developer and soon to be graduate of the General
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 555555
+  primary: 0e0e0e
   secondary: ffffff 
   secondary-dark: 333
 
@@ -26,13 +26,13 @@ people:
     #   url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: _katemontgomery
-  - title: linkedin
-    url: uk.linkedin.com/in/katemont
-  - title: github
-    url: http://github.com/katemont
+# social:
+#   - title: twitter
+#     url: _katemontgomery
+#   - title: linkedin
+#     url: uk.linkedin.com/in/katemont
+#   - title: github
+#     url: http://github.com/katemont
 
 # Build settings
 markdown: kramdown
