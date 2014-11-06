@@ -175,9 +175,14 @@ fieldset[disabled] .btn-xl.active {
     background-color: #222;
 }
 
-.navbar-default .navbar-brand {
+.navbar-default {
     font-family: 'Lobster',"Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.color.primary }};
+}
+
+.navbar-brand {
+    font-family: 'Lobster',"Helvetica Neue",Helvetica,Arial,cursive;
+    color: #F5F5F5;
 }
 
 .navbar-default .navbar-brand:hover,

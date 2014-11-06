@@ -8,8 +8,8 @@ description: "Junior full stack developer and soon to be graduate of the General
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
+  primary: 555555
+  secondary: ffffff 
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -18,12 +18,12 @@ people:
   pic: 1
   position: Full Stack Web Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    # - title: stack-overflow
+    #   url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
