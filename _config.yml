@@ -10,19 +10,6 @@ color:
   secondary: ffffff 
   secondary-dark: 333
 
-# Team names, titles and social links
-people:
-- name: Kate Montgomery
-  pic: 1
-  position: Full Stack Web Developer
-  social:
-    # - title: twitter
-    #   url: #
-    # - title: facebook
-    #   url: #
-    # - title: stack-overflow
-    #   url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
 #   - title: twitter
