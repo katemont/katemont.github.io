@@ -10,6 +10,6 @@ alt: image-alt
 project-date: September 2014
 client: General Assembly
 category: Web Development
-description: Description and further details coming soon. Check out <a href="http://cheerupme.herokuapp.com/" title="Cheerups">Cheerups</a> to try it out!
+description: Cheerups was my second project at General Assembly, produced after just 8 weeks of learning. A group project, the aim of Cheerups was to allow users to share short 'Cheerup' messages and images with friends. These can be voted up on down and user prominence is adjusted accordingly. It is a Ruby on Rails app using JavaScript, AJAX, Facebook Omniauth and Devise. It has been successfully deployed to Heroku. Check out <a href="http://cheerupme.herokuapp.com/" title="Cheerups">cheerupme.herokuapp.com</a> to try it out!
 
 ---

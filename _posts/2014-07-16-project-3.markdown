@@ -10,7 +10,7 @@ alt: image-alt
 project-date: October 2014
 client: General Assembly
 category: Web Development
-description: Description and further details coming soon. Check out <a href="http://drinkfindr.herokuapp.com/" title="drinkfindr">drinkfindr</a> to try it out!
+description: Drinkfindr was the third project I produced at General Assembly. I wanted to create an app that makes it incredibly simple to find bar recommendations from people you trust. Its clean styling cuts through all the noise of social media when searching for venues to show only reviews from people you nominate. drinkfindr is a Rails app that uses the Google Places API and Geocoder to help users make short recommendations quickly and easily via a responsive interface. Go to <a href="http://drinkfindr.herokuapp.com/" title="drinkfindr">drinkfindr.herokuapp.com</a> to try it out!
 
 
 ---

@@ -10,6 +10,5 @@ alt: image-alt
 project-date: August 2014
 client: General Assembly
 category: Web Development
-description: Description and further details coming soon
-
+description: Cloudify was my very first Rails app, built after just 5 weeks of learning. The app allows users to share and listen to music and artwork and personalise their profile pages. It also allows commenting and comment moderation and uses a range of gems including Carrierwave, RMagick, CanCanCan and Acts as Commentable.
 ---
