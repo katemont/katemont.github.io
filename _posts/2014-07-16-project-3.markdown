@@ -10,6 +10,7 @@ alt: image-alt
 project-date: October 2014
 client: General Assembly
 category: Web Development
-description: Description and further details coming soon
+description: Description and further details coming soon. Check out <a href="http://drinkfindr.herokuapp.com/" title="drinkfindr">drinkfindr</a> to try it out!
+
 
 ---

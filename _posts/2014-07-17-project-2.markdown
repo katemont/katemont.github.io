@@ -10,6 +10,6 @@ alt: image-alt
 project-date: September 2014
 client: General Assembly
 category: Web Development
-description: Description and further details coming soon
+description: Description and further details coming soon. Check out <a href="http://cheerupme.herokuapp.com/" title="Cheerups">Cheerups</a> to try it out!
 
 ---
